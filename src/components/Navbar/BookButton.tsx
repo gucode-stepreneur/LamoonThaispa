@@ -5,7 +5,7 @@ export default function BookButton() {
   return (
     <button className="flex items-center py-2 px-3 rounded-md gap-3 bg-navbar-button-background text-navbar-button-text font-medium">
       <Calendar size={20} className="text-navbar-button-text"/>
-      { bookText }
+      { bookText } 
     </button>
   )
 }

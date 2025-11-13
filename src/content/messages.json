@@ -12,7 +12,8 @@
         { "type": "highlight", "value": "Votre institut de beauté & salon de massage traditionnel thaïlandais à Paris " },
         { "type": "text", "value": "où se rencontrent bien-être et tradition pour une expérience unique." }
       ],
-      "button": "Réserver"
+      "button": "Réserver",
+      "href" : "/booking"
     },
   
     "features": {
@@ -141,7 +142,6 @@
 
   "info": {
     "title": "Infos et tarifs",
-    "search": "Search ... ",
     "loadMore": "Charger plus", 
     "types": [
       "Massage", "Gommages", "Soins du visage", "Epilation cire orientale (sucre)", "Teinture des cils et sourcils"
